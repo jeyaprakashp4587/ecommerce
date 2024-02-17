@@ -340,7 +340,7 @@ footer {
     width: 110px;
   }
   .home-content {
-    grid-template-rows: 200px 500px;
+    grid-template-rows: 300px 500px;
     grid-template-columns: 100%;
   }
   .home-content > div:nth-child(2) {
